@@ -2,3 +2,4 @@ how to create a new branch
 1, the command is as follows
 $git checkout -b dev
 this is a new and simple method.
+this is a new branch 'dev'

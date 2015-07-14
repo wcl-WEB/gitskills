@@ -1,4 +1,3 @@
 how to create a new branch
 1, the command is as follows
 $git checkout -b dev
-my boss is shit, he is totally stupid and mean;
